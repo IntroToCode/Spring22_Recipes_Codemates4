@@ -2,7 +2,7 @@
 
 ## Servings: 2
 
-## Time to prepare: 10 minutes
+## Time to prepare: 15 minutes
 
 ## Ingredients: 
 - tortillas
