@@ -7,6 +7,7 @@
 ## Ingredients: 
   - half gallon almond milk
   - 8 cups of dry corn flakes 
+  - bananas
 
 
 ## Equipment needed: 
@@ -18,6 +19,7 @@
   - take bowl out
   - add 2 cups of dry cereal
   - pour 1/8 gallon of almond milk 
+  - top with some banana
 
 
 
