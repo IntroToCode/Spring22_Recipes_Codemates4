@@ -5,8 +5,11 @@
 ## Time to prepare: 10 minutes
 
 ## Ingredients: 
-- tortillas
-- cheese
+- whole wheat tortillas
+- cheddar cheese
+- american cheese
+- cojita cheese
+- love
 
 
 ## Equipment needed:
