@@ -8,6 +8,7 @@
   - half gallon almond milk
   - 8 cups of dry corn flakes 
   - bananas
+  - Strawberries (1/2 cup)
 
 
 ## Equipment needed: 
