@@ -25,7 +25,7 @@
 
 
 ## Steps for preparation:
-- put pan on stove
+- put pan on stove and add oil
 - turn stove on
 - add tortilla to pan
 - add cheese
