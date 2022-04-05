@@ -18,6 +18,7 @@
   - take bowl out
   - add 2 cups of dry cereal
   - pour almond milk 
+  - Add Strawberries
 
 
 
