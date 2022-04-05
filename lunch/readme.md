@@ -6,7 +6,7 @@
 
 ## Ingredients: 
 - tortillas
-- cheese
+- cheddar cheese
 - cooking oil (vegetable oil)
 
 
@@ -23,7 +23,7 @@
 - put pan on stove
 - turn stove on
 - add tortilla to pan
-- add cheese
+- add cheddar cheese
 - turn stove off
 - put quesadilla on plate
 
