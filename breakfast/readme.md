@@ -22,7 +22,6 @@
   - pour 1/8 gallon of almond milk 
   - top with some banana
   - Add some strawberries
-  - Add some blackberries
 
 
 
