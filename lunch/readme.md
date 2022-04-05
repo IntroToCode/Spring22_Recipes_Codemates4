@@ -9,6 +9,7 @@
 - american cheese
 - cheddar cheese
 - cojita cheese
+- Monterey Jack Cheese
 - cooking oil (vegetable oil)
 - lime
 - love
