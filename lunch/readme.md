@@ -6,7 +6,7 @@
 
 ## Ingredients: 
 - tortillas
-- cheese
+- Monterey Jack cheese
 - cooking oil (vegetable oil)
 - lime
 
@@ -24,7 +24,7 @@
 - put pan on stove
 - turn stove on
 - add tortilla to pan
-- add cheese
+- add Monterey Jack cheese
 - turn stove off
 - put quesadilla on plate
 - garnish with some lime
