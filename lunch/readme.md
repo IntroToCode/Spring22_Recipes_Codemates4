@@ -5,8 +5,10 @@
 ## Time to prepare: 10 minutes
 
 ## Ingredients: 
-- tortillas
-- cheese
+- whole wheat tortillas
+- american cheese
+- cheddar cheese
+- cojita cheese
 - cooking oil (vegetable oil)
 - lime
 
