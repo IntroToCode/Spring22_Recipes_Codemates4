@@ -5,19 +5,21 @@
 ## Time to prepare: 15 mins
 
 ## Ingredients:
-water
-KRAFT Macaroni & Cheese Dinner
-margarine
-cup milk
+100ml water.
+KRAFT Macaroni & Cheese Dinner.
+1 stick margarine.
+1 cup milk.
 
 ## Equipment needed:
 Pot
 
 ## Steps for preparation:
-boil water first
-Put water
+
+Put Water
+Boil Water
 Put Kraft
 Put milk and margarine
+Mix
 Serve
 
 
@@ -25,4 +27,4 @@ Serve
 
 
 
-### Codemates #
+### Codemates 4

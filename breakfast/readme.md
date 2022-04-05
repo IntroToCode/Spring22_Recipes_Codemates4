@@ -8,6 +8,7 @@
   - half gallon almond milk
   - 8 cups of dry corn flakes 
   - bananas
+  - Strawberries (1/2 cup)
 
 
 ## Equipment needed: 
@@ -20,6 +21,8 @@
   - add 2 cups of dry cereal
   - pour 1/8 gallon of almond milk 
   - top with some banana
+  - Add some strawberries
+  - Add some blackberries
 
 
 

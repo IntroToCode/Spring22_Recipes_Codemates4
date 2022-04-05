@@ -2,12 +2,17 @@
 
 ## Servings: 2
 
-## Time to prepare: 10 minutes
+## Time to prepare: 15 minutes
 
 ## Ingredients: 
-- tortillas
-- cheese
+- whole wheat tortillas
+- american cheese
+- cheddar cheese
+- cojita cheese
+- Monterey Jack Cheese
 - cooking oil (vegetable oil)
+- lime
+- love
 
 
 ## Equipment needed:
@@ -20,12 +25,13 @@
 
 
 ## Steps for preparation:
-- put pan on stove
+- put pan on stove and add oil
 - turn stove on
 - add tortilla to pan
 - add cheese
 - turn stove off
 - put quesadilla on plate
+- garnish with some lime
 
 
 
