@@ -18,6 +18,7 @@ Pot
 Put Water
 Boil Water
 Put Kraft
+Add a half scoop of sugar
 Put milk and margarine
 Mix
 Serve
