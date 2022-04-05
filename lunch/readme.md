@@ -1,6 +1,6 @@
 # Cheese Quesadilla
 
-## Servings: 2
+## Servings: 4
 
 ## Time to prepare: 10 minutes
 
