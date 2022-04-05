@@ -1,16 +1,30 @@
-# Replace with recipe name
+# Cheese Quesadilla
 
-## Servings: 
+## Servings: 2
 
-## Time to prepare: 
+## Time to prepare: 10 minutes
 
-## Ingredients:
+## Ingredients: 
+- tortillas
+- cheese
 
 
 ## Equipment needed:
+- stove
+- pan
+- spatula
+- plate
+- fork
+- knife
 
 
 ## Steps for preparation:
+- put pan on stove
+- turn stove on
+- add tortilla to pan
+- add cheese
+- turn stove off
+- put quesadilla on plate
 
 
 
@@ -18,4 +32,4 @@
 
 
 
-### Codemates #
+### Codemates 4
