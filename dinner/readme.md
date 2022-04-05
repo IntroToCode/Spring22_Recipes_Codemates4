@@ -12,6 +12,7 @@ KRAFT Macaroni & Cheese Dinner.
 
 ## Equipment needed:
 Pot
+Wooden Spoon (or other stirring utensil of choice)
 
 ## Steps for preparation:
 
