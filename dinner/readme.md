@@ -18,6 +18,7 @@ Boil Water
 Put water
 Put Kraft
 Put milk and margarine
+Mix
 Serve
 
 
