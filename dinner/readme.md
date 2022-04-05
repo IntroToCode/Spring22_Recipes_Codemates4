@@ -16,8 +16,9 @@ Pot
 ## Steps for preparation:
 Boil Water
 Put water
-Put Kraft
+Put Kraft 
 Put milk and margarine
+Put a little bit of sugar
 Mix
 Serve
 
