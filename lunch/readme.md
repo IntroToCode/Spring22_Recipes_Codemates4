@@ -7,6 +7,7 @@
 ## Ingredients: 
 - tortillas
 - cheese
+- cooking oil (vegetable oil)
 
 
 ## Equipment needed:
