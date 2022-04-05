@@ -8,6 +8,7 @@
 - tortillas
 - cheese
 - cooking oil (vegetable oil)
+- lime
 
 
 ## Equipment needed:
@@ -26,6 +27,7 @@
 - add cheese
 - turn stove off
 - put quesadilla on plate
+- garnish with some lime
 
 
 
