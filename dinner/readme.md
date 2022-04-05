@@ -14,8 +14,8 @@ cup milk
 Pot
 
 ## Steps for preparation:
+Put Water
 Boil Water
-Put water
 Put Kraft
 Put milk and margarine
 Mix
@@ -26,4 +26,4 @@ Serve
 
 
 
-### Codemates #
+### Codemates 4
