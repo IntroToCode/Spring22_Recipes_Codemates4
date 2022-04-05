@@ -1,6 +1,6 @@
 # Replace with recipe name
 
-## Servings: 4
+## Servings: 7
 
 ## Time to prepare: 5 minutes
 
